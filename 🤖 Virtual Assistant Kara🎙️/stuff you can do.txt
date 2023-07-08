@@ -1,0 +1,31 @@
+Here are the some stuff u can do  with this AI 
+
+
+1) you can do ask athmetical questions 
+2)You can see your command history :"what was my recent task","recent"
+3)you can delete your command History: "delete","delete history"
+4)You can see live covid-19 cases in india :"covid","corona"
+5)you can ask for wikipedia serches "just say the name of the topic" for eg who is mahi 
+6)you can ask for the status of battery percentage 
+7)you can ask for present date/time
+8)you can take screenshot
+9)you can take selfie of yours
+10) you can see your youtube subscriptions :"my subscription", watch later list :"watch later"
+11)you can ask her for opening any application install in your device
+12) you can change your username : "change my username","change","username"
+
+some funny stuff you can do with it 
+by asking :
+
+who made you
+where do you live
+what is your name 
+what is my name
+what can you do
+do you love me 
+can i call you "name you like"
+how are you
+
+
+
+ 
